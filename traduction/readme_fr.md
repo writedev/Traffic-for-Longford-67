@@ -1,5 +1,11 @@
 # Traffic for Longford 67
 
+<div align="center">
+
+[English](https://github.com/writedev/Traffic-for-Longford-67/blob/main/readme.md)
+
+</div>
+
 Ce mod a été crée pour avoir du traffic sur [longford 67](https://www.overtake.gg/downloads/longford-1967.2741/)
 
 Pour m'installer, suivez les etapes suivantes :
