@@ -4,9 +4,11 @@
 
 ### [En français](https://github.com/writedev/Traffic-for-Longford-67/blob/main/traduction/readme_fr.md)
 
-![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/writedev/Traffic-for-Longford-67/Traffic_longford67.7z?style=for-the-badge) ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/languages/count/writedev/Traffic-for-Longford-67?style=for-the-badge)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/writedev/Traffic-for-Longford-67/Traffic_longford67.7z?style=for-the-badge) ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/languages/count/writedev/Traffic-for-Longford-67?style=for-the-badge)![Langage principal](https://img.shields.io/github/languages/top/writedev/Traffic-for-Longford-67?style=for-the-badge)
 
 </div>
+
+---
 
 This mod was created to get traffic on [longford 67](https://www.overtake.gg/downloads/longford-1967.2741/)
 
