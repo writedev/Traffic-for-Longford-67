@@ -10,7 +10,7 @@ This mod was created to get traffic on [longford 67](https://www.overtake.gg/dow
 
 To install me, follow these steps:
 
-1. Download the latest version of the traffic file **[here]()**.
+1. Download the latest version of the traffic file **[here](https://github.com/writedev/Traffic-for-Longford-67/releases/download/1.0.0/Traffic_longford67.7z)**.
 
 2. Go to the root file of assetto corsa (tuto_root file_assetto_corsa.md)
 
