@@ -2,7 +2,9 @@
 
 <div align="center">
 
-### [En français](https://github.com/writedev/Traffic-for-Longford-67/blob/main/traduction/readme_fr.md) ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/writedev/Traffic-for-Longford-67/Traffic_longford67.7z?style=for-the-badge) ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/languages/count/writedev/Traffic-for-Longford-67?style=for-the-badge)
+### [En français](https://github.com/writedev/Traffic-for-Longford-67/blob/main/traduction/readme_fr.md)
+
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/writedev/Traffic-for-Longford-67/Traffic_longford67.7z?style=for-the-badge) ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/languages/count/writedev/Traffic-for-Longford-67?style=for-the-badge)
 
 </div>
 
