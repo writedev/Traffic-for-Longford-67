@@ -8,4 +8,4 @@ Suivez les etape suivantes :
 4. Puis cliquer sur Gerer
 5. Cliquer sur "parcourir les fichiers locaux"
 
-Après cela revenez sur readme.md pour finir le tuto
+Après cela revenez sur le [readme](https://github.com/writedev/Traffic-for-Longford-67/blob/main/traduction/readme_fr.md) pour finir le tuto
